@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Markall201/static/css/main.073c9b0a.css",
-    "main.js": "/Markall201/static/js/main.8bd09ae7.js",
-    "static/js/787.dc667127.chunk.js": "/Markall201/static/js/787.dc667127.chunk.js",
-    "static/media/logo.svg": "/Markall201/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/Markall201/index.html",
-    "main.073c9b0a.css.map": "/Markall201/static/css/main.073c9b0a.css.map",
-    "main.8bd09ae7.js.map": "/Markall201/static/js/main.8bd09ae7.js.map",
-    "787.dc667127.chunk.js.map": "/Markall201/static/js/787.dc667127.chunk.js.map"
+    "main.css": "/Markall201.github.io/static/css/main.073c9b0a.css",
+    "main.js": "/Markall201.github.io/static/js/main.3fd1d4e2.js",
+    "static/js/787.dc667127.chunk.js": "/Markall201.github.io/static/js/787.dc667127.chunk.js",
+    "static/media/logo.svg": "/Markall201.github.io/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Markall201.github.io/index.html",
+    "main.073c9b0a.css.map": "/Markall201.github.io/static/css/main.073c9b0a.css.map",
+    "main.3fd1d4e2.js.map": "/Markall201.github.io/static/js/main.3fd1d4e2.js.map",
+    "787.dc667127.chunk.js.map": "/Markall201.github.io/static/js/787.dc667127.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.8bd09ae7.js"
+    "static/js/main.3fd1d4e2.js"
   ]
 }
