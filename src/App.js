@@ -10,7 +10,7 @@ function App() {
           Hello
         </p>
         <p>
-          this is my website
+          this is mark allen's website, work in progress
         </p>
       </header>
     </div>
