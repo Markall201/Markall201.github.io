@@ -69,4 +69,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
-### `npm run deploy` will push a deployment build commit to gh-pages branch, enabling the website to update
+### `npm run deploy` will build and push a deployment commit to the gh-pages branch, updating and publishing the website. The gh-pages branch will contain the deployment version of the website for GitHub Pages. You don't need to manually do anything to that branch, just run the above command to update it automatically.
