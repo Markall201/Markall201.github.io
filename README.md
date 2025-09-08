@@ -29,6 +29,13 @@ Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
+### `npm run deploy`
+(This is a Mark Allen addendum to the readme)
+When you're ready to deploy the app, you should be able to run the deploy scripts.
+This will run the build scripts to build the production app, push to the `gh-pages` branch, and trigger the deployment pipeline.
+
+Note to self: I've noticed that this deploys to markall201.github.io, to redeploy to markallen.dev I may need to go to the repository settings on GitHub and re-enter the custom domain.
+
 ### `npm run eject`
 
 **Note: this is a one-way operation. Once you `eject`, you can't go back!**
