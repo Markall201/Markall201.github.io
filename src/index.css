@@ -45,8 +45,19 @@ code {
 }
 
 .content {
-  max-width: 600px;
-  margin: 40px auto;
+  margin-top: 10%;
+  margin-bottom: 10%;
+  margin-right: 20%;
+  margin-left: 20%;
   padding: 20px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  text-align: left;
+}
+
+
+.content p {
+  margin: 20px auto;
 }
 
